@@ -1,5 +1,7 @@
 # Ethonic-MRAO-Maker
 Takes Metallic, Roughness, and Ambient Occlusion to create a MRAO texture.
+
+I installed these a while ago so the installation instructions may be wrong.
 # Instalation
 ## Windows:
 
