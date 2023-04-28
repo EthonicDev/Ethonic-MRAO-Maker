@@ -1,7 +1,7 @@
 # Ethonic-MRAO-Maker
 Takes Metallic, Roughness, and Ambient Occlusion to create a MRAO texture.
 
-I installed tkinter and Pillow a while ago and I do not use macOS or Linux so the installation instructions may be wrong.
+I installed tkinter and Pillow a while ago and I do not use macOS or Linux so the installation instructions may be wrong. You may need to install tkinter and Pillow separatly.
 # Instalation
 ## Windows:
 
